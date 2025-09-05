@@ -1,5 +1,8 @@
 body{
-    background-color: aquamarine;
+    background-color: rgb(0, 0, 0);
+}
+h1{
+    color: blueviolet;
 }
 ul {
   list-style-type: none;
