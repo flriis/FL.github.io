@@ -35,12 +35,12 @@ ul li a {
   padding-right: 90%;
   text-decoration: none;
 }
-/*navbar hover color*/
+/*navbar hover color and border*/
 ul li a:hover {
   background-color: #000000;
   border:2px solid blueviolet;
   border-radius: 12px;
-  padding-right :90%;
+  padding :14px 16px;
 }
 /*marquee color*/
 marquee{
