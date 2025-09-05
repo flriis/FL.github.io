@@ -27,3 +27,6 @@ ul li a {
 ul li a:hover {
   background-color: #4400ff;
 }
+marquee{
+    color: blueviolet;
+}
