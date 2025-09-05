@@ -1,9 +1,12 @@
+/*background color*/
 body{
     background-color: rgb(0, 0, 0);
 }
+/*h1 text color*/
 h1{
     color: blueviolet;
 }
+/*navbar background color*/
 ul {
   list-style-type: none;
   margin: 0;
@@ -11,11 +14,11 @@ ul {
   overflow: hidden;
   background-color: blueviolet;
 }
-
+/*navbar position*/
 ul li {
   float: left;
 }
-
+/*navbar text color*/
 ul li a {
   display: block;
   color: rgb(127, 0, 146);
@@ -23,10 +26,11 @@ ul li a {
   padding: 14px 16px;
   text-decoration: none;
 }
-
+/*navbar hover color*/
 ul li a:hover {
   background-color: #4400ff;
 }
+/*marquee color*/
 marquee{
     color: blueviolet;
 }
