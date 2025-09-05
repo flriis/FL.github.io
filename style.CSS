@@ -6,13 +6,16 @@ body{
 h1{
     color: blueviolet;
 }
-/*navbar background color*/
+/*navbar background color and border*/
 ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
   overflow: hidden;
   background-color: rgb(0, 0, 0);
+      border : 2px blueviolet;
+    border-radius: 12px;
+    padding:5px;
 }
 /*navbar position*/
 ul li {
@@ -25,12 +28,6 @@ ul li a {
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-}
-/*navbar border*/
-ul {
-    border : 2px blueviolet;
-    border-radius: 12px;
-    padding:5px;
 }
 /*navbar hover color*/
 ul li a:hover {
