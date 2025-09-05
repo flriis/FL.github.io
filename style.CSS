@@ -40,7 +40,7 @@ ul li a:hover {
   background-color: #000000;
   border:2px solid blueviolet;
   border-radius: 12px;
-  padding:8px;
+  padding-block-start: 100%;
 }
 /*marquee color*/
 marquee{
