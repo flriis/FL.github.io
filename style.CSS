@@ -37,10 +37,10 @@ ul li a {
 }
 /*navbar hover color*/
 ul li a:hover {
-  background-color: #4400ff;
+  background-color: #000000;
   border:2px solid blueviolet;
   border-radius: 12px;
-  padding:2px;
+  padding:5px;
 }
 /*marquee color*/
 marquee{
