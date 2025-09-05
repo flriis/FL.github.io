@@ -32,7 +32,7 @@ ul li a {
   display: block;
   color: rgb(127, 0, 146);
   text-align: center;
-  padding: 16px;
+  padding:14px 16px;
   text-decoration: none;
 }
 /*navbar hover color*/
@@ -40,7 +40,7 @@ ul li a:hover {
   background-color: #000000;
   border:2px solid blueviolet;
   border-radius: 12px;
-  padding-inline: 100%;
+  padding-inline: 50%;
 }
 /*marquee color*/
 marquee{
