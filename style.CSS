@@ -46,3 +46,7 @@ ul li a:hover {
 marquee{
     color: blueviolet;
 }
+div{
+  bordeeer: 2px solid blueviolet;
+  border-radius: 12px;
+}
