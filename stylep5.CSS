@@ -1,0 +1,44 @@
+/*background color*/
+body{
+    background-color: rgb(0, 0, 0);
+}
+/*h1 text color*/
+h1{
+    color: blueviolet;
+}
+/*h1 border*/
+h1 {
+  border: 2px solid rgb(132, 0, 255);
+  border-radius: 5px;
+}
+
+/*navbar background color and border*/
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: rgb(0, 0, 0);
+      border : 2px solid blueviolet;
+    border-radius: 12px;
+    padding:5px;
+}
+/*navbar position*/
+ul li {
+  float: left;
+}
+/*navbar text color*/
+ul li a {
+  display: block;
+  color: rgb(127, 0, 146);
+  text-align: center;
+  padding:14px 16px;
+  text-decoration: none;
+}
+/*navbar hover color and border*/
+ul li a:hover {
+  background-color: #000000;
+  border:2px solid blueviolet;
+  border-radius: 12px;
+  padding-right: 90%;
+}
