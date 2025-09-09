@@ -5,6 +5,7 @@ body{
 /*h1 text color*/
 h1{
     color: blueviolet;
+    align:center;
 }
 /*h2 text color*/
 h2{
@@ -14,7 +15,6 @@ h2{
 .title {
   border: 2px solid rgb(132, 0, 255);
   border-radius: 5px;
-  align: center;
 }
 
 /*navbar background color and border*/
