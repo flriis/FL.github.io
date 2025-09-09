@@ -14,6 +14,7 @@ h2{
 .title {
   border: 2px solid rgb(132, 0, 255);
   border-radius: 5px;
+  align: center;
 }
 
 /*navbar background color and border*/
@@ -50,10 +51,7 @@ ul li a:hover {
 marquee{
     color: blueviolet;
 }
-div{
-  border: 2px solid blueviolet;
-  border-radius: 12px;
-}
+/*border rond alinea division*/
 .alinea{
   border:2px solid blueviolet ;
   border-radius: 12px;
