@@ -5,7 +5,6 @@ body{
 /*h1 text color*/
 h1{
     color: blueviolet;
-    align:center;
 }
 /*h2 text color*/
 h2{
@@ -13,6 +12,7 @@ h2{
 }
 /*titel border*/
 .title {
+  text-align: center;
   border: 2px solid rgb(132, 0, 255);
   border-radius: 5px;
 }
