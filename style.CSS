@@ -52,11 +52,20 @@ marquee{
     color: blueviolet;
 }
 /*border rond alinea division*/
-.alinea{
+.alinea1{
   border:2px solid blueviolet ;
   border-radius: 12px;
   padding: 14px 16px;
   float:left;
+  height:auto;
+  width:250px ;
+}
+/*border rond alinea division*/
+.alinea2{
+  border:2px solid blueviolet ;
+  border-radius: 12px;
+  padding: 14px 16px;
+  float:center;
   height:auto;
   width:250px ;
 }
