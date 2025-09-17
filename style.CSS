@@ -62,11 +62,11 @@ marquee{
 }
 /*border rond alinea division 2*/
 .alinea2{
+  flex-basis: auto;
   border:2px solid blueviolet ;
   border-radius: 12px;
   padding: 14px 16px;
   float:center;
-  position: relative;
   height:auto;
   width:250px ;
 }
