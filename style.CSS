@@ -75,7 +75,7 @@ marquee{
 }
 .alinea3{
   position: relative;
-  center:auto ;
+  container: center ;
   border:2px solid blueviolet ;
   border-radius: 12px;
   padding: 14px 16px;
