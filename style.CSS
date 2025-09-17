@@ -66,6 +66,7 @@ marquee{
   border-radius: 12px;
   padding: 14px 16px;
   float:center;
+  position: fixed;
   height:auto;
   width:250px ;
 }
