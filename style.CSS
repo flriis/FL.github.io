@@ -54,7 +54,7 @@ marquee{
 /*border rond alinea division*/
 .alinea1{
   position:relative;
-  left:40px ;
+  left:80px ;
   border:2px solid blueviolet ;
   border-radius: 12px;
   padding: 14px 16px;
@@ -65,7 +65,7 @@ marquee{
 /*border rond alinea division 2*/
 .alinea2{
   position: relative;
-  right:40px ;
+  right:80px ;
   border:2px solid blueviolet ;
   border-radius: 12px;
   padding: 14px 16px;
