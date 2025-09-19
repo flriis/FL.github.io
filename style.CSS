@@ -61,7 +61,7 @@ marquee{
   padding: 14px 16px;
   float:left;
   height:auto;
-  width:250px ;
+  width:20% ;
 }
 /*border rond alinea division 2*/
 .alinea2{
@@ -73,12 +73,11 @@ marquee{
   padding: 14px 16px;
   float:right;
   height:auto;
-  width:250px ;
+  width:20% ;
 }
 /*border en alignment van alinea 3*/
 .alinea3{
-  object-position: center;
-  float:center,top;
+  position:center ;
   border:2px solid blueviolet ;
   border-radius: 12px;
   padding: 14px 16px;
