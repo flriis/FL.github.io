@@ -77,7 +77,8 @@ marquee{
 }
 /*border en alignment van alinea 3*/
 .alinea3{
-  float:center; 
+  float:center;
+  align-self: center;
   border:2px solid blueviolet ;
   border-radius: 12px;
   padding: 14px 16px;
