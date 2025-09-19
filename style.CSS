@@ -78,10 +78,10 @@ marquee{
 /*border en alignment van alinea 3*/
 .alinea3{
   object-position: center;
-  float:center;top;
+  float:center,top;
   border:2px solid blueviolet ;
   border-radius: 12px;
   padding: 14px 16px;
   height:auto;
   width:250px;
-}
+} 
