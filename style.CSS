@@ -55,7 +55,7 @@ marquee{
 .alinea1{
   position:relative;
   top:40px ;
-  left:20% ;
+  left:10% ;
   border:2px solid blueviolet ;
   border-radius: 12px;
   padding: 14px 16px;
@@ -67,7 +67,7 @@ marquee{
 .alinea2{
   position: relative;
   top:40px ;
-  right:20% ;
+  right:10% ;
   border:2px solid blueviolet ;
   border-radius: 12px;
   padding: 14px 16px;
