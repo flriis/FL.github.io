@@ -6,6 +6,9 @@ body{
 h1{
     color: blueviolet;
 }
+h2{
+    color: blueviolet;
+}
 .title2{
   text-align: center;
     border: 2px solid rgb(132, 0, 255);
