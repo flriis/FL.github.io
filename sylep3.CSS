@@ -45,3 +45,25 @@ ul li a:hover {
   display:flex;
 justify-content: center;
 }
+.left{
+    position:relative;
+  top:40px ;
+  left:10% ;
+    border:2px solid blueviolet ;
+  border-radius: 12px;
+  padding: 14px 16px;
+  float:right;
+  height:auto;
+  width:20% ;
+}
+.right{
+   position: relative;
+  top:40px ;
+  right:10% ;
+    border:2px solid blueviolet ;
+  border-radius: 12px;
+  padding: 14px 16px;
+  float:right;
+  height:auto;
+  width:20% ;
+}
