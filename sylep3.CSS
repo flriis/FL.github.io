@@ -47,7 +47,6 @@ justify-content: center;
 }
 .left{
     position:absolute;
-  top:40px ;
   left:10% ;
     border:2px solid blueviolet ;
   border-radius: 12px;
@@ -58,7 +57,6 @@ justify-content: center;
 }
 .right{
    position: absolute;
-  top:40px ;
   right:10% ;
     border:2px solid blueviolet ;
   border-radius: 12px;
