@@ -48,7 +48,7 @@ justify-content: center;
 .left{
     position:absolute;
   left:10% ;
-  top:10%;
+  top:25%;
     border:2px solid blueviolet ;
   border-radius: 12px;
   padding: 14px 16px;
@@ -59,7 +59,7 @@ justify-content: center;
 .right{
    position: absolute;
   right:10% ;
-  top:10%;
+  top:25%;
     border:2px solid blueviolet ;
   border-radius: 12px;
   padding: 14px 16px;
