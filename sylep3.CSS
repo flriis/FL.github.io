@@ -46,7 +46,7 @@ ul li a:hover {
 justify-content: center;
 }
 .left{
-    position:relative;
+    position:absolute;
   top:40px ;
   left:10% ;
     border:2px solid blueviolet ;
@@ -57,7 +57,7 @@ justify-content: center;
   width:20% ;
 }
 .right{
-   position: relative;
+   position: absolute;
   top:40px ;
   right:10% ;
     border:2px solid blueviolet ;
