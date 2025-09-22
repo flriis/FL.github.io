@@ -42,7 +42,6 @@ ul li a:hover {
   padding-right:5px;
 }
 .image{
-  display: block;
-  margin: auto;
-  width :50%;
+  display:flex;
+justify-content: center;
 }
