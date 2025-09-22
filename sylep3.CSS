@@ -6,12 +6,11 @@ body{
 h1{
     color: blueviolet;
 }
-/*h1 border*/
-h1 {
-  border: 2px solid rgb(132, 0, 255);
+.title2{
+  text-align: center;
+    border: 2px solid rgb(132, 0, 255);
   border-radius: 5px;
 }
-
 /*navbar background color and border*/
 ul {
   list-style-type: none;
