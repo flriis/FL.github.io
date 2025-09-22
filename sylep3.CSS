@@ -41,3 +41,6 @@ ul li a:hover {
   border-radius: 12px;
   padding-right:5px;
 }
+.image{
+  float: center;
+}
