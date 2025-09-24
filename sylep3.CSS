@@ -23,12 +23,12 @@ ul {
   background-color: rgb(0, 0, 0);
       border : 2px solid blueviolet;
     border-radius: 12px;
-    padding:5px;
+    padding:auto;
 }
 /*navbar position*/
-/*ul li {
+ul li {
   float: left;
-}*/
+}
 /*navbar text color*/
 ul li a {
   display: block;
@@ -43,7 +43,7 @@ ul li a:hover {
   background-color: #000000;
   border:2px solid blueviolet;
   border-radius: 12px;
-  padding-right:5px;
+  padding-right:auto;
 }
 .image{
   display:flex;
