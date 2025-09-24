@@ -44,3 +44,29 @@ ul li a:hover {
   border-radius: 12px;
   padding-right:auto;
 }
+.left{
+    position:absolute;
+  left:10% ;
+  top:25%;
+    border:2px solid blueviolet ;
+  border-radius: 12px;
+  padding: 14px 16px;
+  float:right;
+  height:50%;
+  width:20% ;
+}
+.right{
+   position: absolute;
+  right:10% ;
+  top:25%;
+    border:2px solid blueviolet ;
+  border-radius: 12px;
+  padding: 14px 16px;
+  float:right;
+  height:50%;
+  width:20% ;
+}
+.image{
+  display:flex;
+justify-content: center;
+}
