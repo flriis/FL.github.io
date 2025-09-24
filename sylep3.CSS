@@ -28,6 +28,9 @@ ul {
 /*navbar position*/
 ul li {
   float: left;
+    border:2px solid rgb(255, 0, 0);
+  border-radius: 12px;
+  padding-right:5px;
 }
 /*navbar text color*/
 ul li a {
@@ -36,6 +39,7 @@ ul li a {
   text-align: center;
   padding:14px 16px;
   text-decoration: none;
+  
 }
 /*navbar hover color and border*/
 ul li a:hover {
