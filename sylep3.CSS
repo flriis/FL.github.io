@@ -32,7 +32,7 @@ ul li {
 /*navbar text color*/
 ul li a {
   display: block;
-  color: rgb(127, 0, 146);
+  color: blueviolet;
   text-align: center;
   padding:14px 16px;
   text-decoration: none;
