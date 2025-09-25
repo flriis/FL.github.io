@@ -6,6 +6,9 @@ body{
 h1{
     color: blueviolet;
 }
+h2{
+  color:blueviolet;
+}
 .title3{
   text-align: center;
     border: 2px solid rgb(132, 0, 255);
@@ -43,4 +46,26 @@ ul li a:hover {
   border:2px solid blueviolet;
   border-radius: 12px;
   padding-right:auto;
+}
+.left{
+    position:absolute;
+  left:10% ;
+  top:25%;
+    border:2px solid blueviolet ;
+  border-radius: 12px;
+  padding: 14px 16px;
+  float:right;
+  height:60%;
+  width:20% ;
+}
+.right{
+   position: absolute;
+  right:10% ;
+  top:25%;
+    border:2px solid blueviolet ;
+  border-radius: 12px;
+  padding: 14px 16px;
+  float:right;
+  height:60%;
+  width:20% ;
 }
