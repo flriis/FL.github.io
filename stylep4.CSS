@@ -48,7 +48,7 @@ ul li a:hover {
   padding-right:auto;
 }
 .left{
-  align-content:center;
+  text-align:center;
     position:absolute;
   left:10% ;
   top:25%;
@@ -60,7 +60,7 @@ ul li a:hover {
   width:20% ;
 }
 .right{
-  align-content:center;
+  text-align:center;
    position: absolute;
   right:10% ;
   top:25%;
