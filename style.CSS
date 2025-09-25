@@ -50,27 +50,20 @@ ul li a:hover {
   padding-right:auto;
 }
 .alineas{
+
 /*border rond alinea division*/
 .alinea1{
-  position:relative;
-  top:40px ;
-  left:10% ;
   border:2px solid blueviolet ;
   border-radius: 12px;
   padding: 14px 16px;
-  float:left;
   height:auto;
   width:20% ;
 }
 /*border rond alinea division 2*/
 .alinea2{
-  position: relative;
-  top:40px ;
-  right:10% ;
   border:2px solid blueviolet ;
   border-radius: 12px;
   padding: 14px 16px;
-  float:right;
   height:auto;
   width:20% ;
 }
@@ -81,7 +74,5 @@ ul li a:hover {
   padding: 14px 16px;
   height:auto;
   width:250px;
-    display:flex;
-justify-content: center;
 }
 }
