@@ -58,7 +58,7 @@ justify-content: center;
   border-radius: 12px;
   padding: 14px 16px;
   float:right;
-  height:50%;
+  height:auto;
   width:20% ;
 }
 .right{
@@ -69,6 +69,6 @@ justify-content: center;
   border-radius: 12px;
   padding: 14px 16px;
   float:right;
-  height:50%;
+  height:auto;
   width:20% ;
 }
