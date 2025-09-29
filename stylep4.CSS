@@ -50,7 +50,7 @@ ul li a:hover {
 .left{
   text-align:center;
     position:absolute;
-  left:10% ;
+  left:5% ;
   top:25%;
     border:2px solid blueviolet ;
   border-radius: 12px;
@@ -62,7 +62,7 @@ ul li a:hover {
 .right{
   text-align:center;
    position: absolute;
-  right:10% ;
+  right:5% ;
   top:25%;
     border:2px solid blueviolet ;
   border-radius: 12px;
