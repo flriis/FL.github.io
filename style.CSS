@@ -50,9 +50,9 @@ ul li a:hover {
   padding-right:auto;
 }
 .alineas{
-display:inline;
 /*border rond alinea division*/
 .alinea1{
+  display:inline;
   border:2px solid blueviolet ;
   border-radius: 12px;
   padding: 14px 16px;
