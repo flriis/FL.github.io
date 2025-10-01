@@ -6,7 +6,9 @@ body{
 h1{
     color: blueviolet;
 }
-
+h2{
+    color: blueviolet;
+}
 /*navbar background color and border*/
 ul {
   list-style-type: none;
