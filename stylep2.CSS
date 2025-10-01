@@ -49,3 +49,21 @@ marquee{
   border: 2px solid rgb(132, 0, 255);
   border-radius: 15px;
 }
+.images{
+  height: 100%;
+  width: 100%;
+  display:flex;
+justify-content: center;
+}
+.left{
+  text-align:center;
+    position:absolute;
+  left:5% ;
+  top:25%;
+    border:2px solid blueviolet ;
+  border-radius: 12px;
+  padding: 14px 16px;
+  float:right;
+  height:auto;
+  width:25% ;
+}
