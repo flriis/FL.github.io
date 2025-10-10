@@ -56,6 +56,11 @@ marquee{
   width: 100%;
   display:flex;
 justify-content: center;
+    border:2px solid blueviolet ;
+  border-radius: 12px;
+  padding: 14px 16px;
+  height:auto;
+  width:25% ;
 }
 .mid{
     top:70%;
