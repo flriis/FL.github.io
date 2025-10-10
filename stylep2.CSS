@@ -51,7 +51,7 @@ marquee{
   border: 2px solid rgb(132, 0, 255);
   border-radius: 15px;
 }
-.middle{
+.images{
   height: 100%;
   width: 100%;
   display:flex;
