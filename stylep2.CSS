@@ -55,7 +55,7 @@ marquee{
   height: 100%;
   width: 100%;
   align-content: center;
-  display:flex;
+  display:flexbox;
 justify-self: center;
     border:2px solid blueviolet ;
   border-radius: 12px;
