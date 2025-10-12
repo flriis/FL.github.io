@@ -50,13 +50,16 @@ ul li a:hover {
   padding-right:auto;
 }
 .alineas{
-/*border rond alinea division*/
-.alinea1{
-  float:left;
-  border:2px solid blueviolet ;
+    border:2px solid blueviolet ;
   border-radius: 12px;
   padding: 14px 16px;
   height:auto;
   width:20% ;
+/*border rond alinea division*/
+.alinea1{
+  float:left;
+}
+.alinea2{
+  float:right;
 }
 }
