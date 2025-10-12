@@ -57,21 +57,6 @@ marquee{
   align-content: center;
   display:flexbox;
 justify-self: center;
-    border:2px solid blueviolet ;
-  border-radius: 12px;
-  padding: 14px 16px;
-  height:auto;
-  width:25% ;
-}
-.mid{
-    top:70%;
-    border:2px solid blueviolet ;
-  border-radius: 12px;
-  padding: 14px 16px;
-  height:auto;
-  width:25% ;
-  align-self:center;
-  text-align: center;
 }
 .left{
   text-align:center;
