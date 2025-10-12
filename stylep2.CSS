@@ -71,6 +71,7 @@ justify-self: center;
   height:auto;
   width:25% ;
   align-self:center;
+  text-align: center;
 }
 .left{
   text-align:center;
