@@ -52,6 +52,8 @@ ul li a:hover {
 /*border rond alinea division*/
 .alinea1{
   float:left;
+  position: relative;
+  left: 10%;
       border:2px solid blueviolet ;
   border-radius: 12px;
   padding: 14px 16px;
@@ -59,6 +61,8 @@ ul li a:hover {
   width:20% ;
 }
 .alinea2{
+  position: relative;
+  right:10% ;
   float:right;
     border:2px solid blueviolet ;
   border-radius: 12px;
