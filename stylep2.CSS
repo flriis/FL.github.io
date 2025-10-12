@@ -52,11 +52,10 @@ marquee{
   border-radius: 15px;
 }
 .images{
-  height: 90%;
-  width: 90%;
-  align-content: center;
-  display:flexbox;
-justify-self: center;
+  height: 100%;
+  width: 100%;
+  display:flex;
+justify-content: center;
 }
 .left{
   text-align:center;
