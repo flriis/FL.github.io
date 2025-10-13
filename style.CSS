@@ -45,10 +45,6 @@ ul li a {
   padding:16px 16px;
   text-decoration: none;
 }
-.bar{
-  border:2px solid blueviolet;
-  border-radius: 14px 12px;
-}
 /*navbar hover color and border*/
 ul li a:hover {
   background-color: #000000;
