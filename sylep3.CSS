@@ -6,9 +6,11 @@ body{
 h1{
     color: blueviolet;
 }
+/*h2 tekst kleur*/
 h2{
     color: blueviolet;
 }
+/*positie en border van kop*/
 .title2{
   text-align: center;
   border: 2px solid rgb(132, 0, 255);
@@ -46,10 +48,12 @@ ul li a:hover {
   border-radius: 12px;
   padding-right:auto;
 }
+/*foto posities*/
 .image{
   display:flex;
 justify-content: center;
 }
+/*positie en border van linker alinea*/
 .left{
     position:absolute;
   left:10% ;
@@ -61,6 +65,7 @@ justify-content: center;
   height:auto;
   width:25% ;
 }
+/*position en border rechter alinea*/
 .right{
    position: absolute;
   right:10% ;
