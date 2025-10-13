@@ -60,6 +60,7 @@ ul li a:hover {
   height:auto;
   width:35% ;
 }
+/*border en positie van alinea 2*/
 .alinea2{
   position: relative;
   right:10% ;
